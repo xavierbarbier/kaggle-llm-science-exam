@@ -14,3 +14,6 @@ The idea is :
 * both model don't reach the setted max epochs (10)
 * DeBERTa outperform DistilBERT
 * best performance is 0.750833 (still far from competition winners ! - https://www.kaggle.com/competitions/kaggle-llm-science-exam/leaderboard)
+
+* ![image](https://github.com/xavierbarbier/kaggle-llm-science-exam/assets/51788432/97afbb77-2002-4342-bfd7-8cdaf0d96caf)
+
