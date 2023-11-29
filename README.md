@@ -9,6 +9,7 @@ The idea is :
 * use Hugging Face transformers library with Parameter-Efficient Fine-Tuning (PEFT) and LoRa (Low-Rank Adaptation) for training
 * push model to Hugging Face hub ad the en of training
 
+NOTEBOOK => https://github.com/xavierbarbier/kaggle-llm-science-exam/blob/main/sci_mutliplechoice.ipynb
 
 ## Results
 * both model don't reach the setted max epochs (10)
