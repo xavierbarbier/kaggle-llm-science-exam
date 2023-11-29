@@ -2,7 +2,7 @@
 
 ## Introduction
 This is a spin off from the kaggle-llm-science-exam competition (https://www.kaggle.com/competitions/kaggle-llm-science-exam).
-The idea is :
+The ideas are :
 * multiple-choice question answering (MCQA) task
 * use community datasets as training set
 * use competition training dataset as test set
