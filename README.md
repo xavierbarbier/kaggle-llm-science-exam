@@ -3,6 +3,7 @@
 ## Introduction
 This is a spin off from the kaggle-llm-science-exam competition (https://www.kaggle.com/competitions/kaggle-llm-science-exam).
 The idea is :
+* multiple-choice question answering (MCQA) task
 * use community datasets as training set
 * use competition training dataset as test set
 * compare 2 models (DeBERTa and DistilBERT ) using the competition metric (MAP@3 - www.kaggle.com/competitions/kaggle-llm-science-exam/overview/evaluation)
